@@ -1,14 +1,14 @@
 {
-	"id": "ichors_vessel",
+	"id": "Ichors_Vessel",
 	"name": "Ichor's Vessel",
 	"display_name": "Ichor's Vessel",
 	"author": ["TheDogOfChaos", "AvelokaDraws"],
-	"description": "A mod about AvelokaDraws's alternate universe for Cult of the Lamb. Go check them out at https://aveloka-draws.tumblr.com!",
+	"description": "A mod about AvelokaDraws's alternate universe for Cult of the Lamb. Go check them out at https://aveloka-draws.tumblr.com! If needed, I will remove any art that Aveloka does not wish to be depicted.",
 	"prefix": "ichors_vessel",
 	"main_file": "main.lua",
 	"priority": 0,
-	"badge_colour": "#a51e0f",
-	"badge_text_colour": "#000000",
+	"badge_colour": "000000",
+	"badge_text_colour": "a51e0f",
 	"version": "0.1.0",
 	"dependencies": []
 }
