@@ -1,7 +1,7 @@
 return {
     descriptions = {
         Joker = {
-            ichors_vessel_fear = {
+            j_ichors_vessel_fear = {
                 name = "{C:red,E:2}Fear{}",
                 text = {
                     "At the end of a hand, {C:red,E:2}Force Trigger{} the effects of the Jokers to the immediate left and right.",

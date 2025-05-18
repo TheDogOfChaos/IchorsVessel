@@ -3,7 +3,7 @@
 	"name": "Ichor's Vessel",
 	"display_name": "Ichor's Vessel",
 	"author": ["TheDogOfChaos", "AvelokaDraws"],
-	"description": "A mod about AvelokaDraws's alternate universe for Cult of the Lamb. Go check them out at https://aveloka-draws.tumblr.com! If needed, I will remove any art that Aveloka does not wish to be depicted.",
+	"description": "A mod about AvelokaDraws's alternate universe for Cult of the Lamb. Go check them out at https://aveloka-draws.tumblr.com ! If needed, I will remove any art that Aveloka does not wish to be depicted.",
 	"prefix": "ichors_vessel",
 	"main_file": "main.lua",
 	"priority": 0,
