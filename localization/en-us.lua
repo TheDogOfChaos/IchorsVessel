@@ -2,12 +2,14 @@ return {
     descriptions = {
         Back = {
             b_ichor_tarot = {
-                name = "Deck of the Fates",
+                name = "Clauneck's Deck",
                 text = {
-                    'Start with 5 Eternal {C:dark_edition}Unholy Arcana{} {C:attention}jokers{}',
-                    '{C:red}Cannot{} obtain any other {C:attention}jokers{}.',
-                    'Tarot cards and Arcana Booster packs',
-                    'are 20X more likely to appear.'
+                    '{C:inactive,s:0.8}"Are we all but players in this game of chance?"{}',
+                    'Start run with {C:attention,T:v_overstock_norm}Overstock{}.',
+                    'Cannot obtain any {C:attention}jokers{} other',
+                    'than {C:dark_edition}Unholy Arcana{} {C:attention}jokers{}.',
+                    'All {C:attention}jokers{} become {C:eternal}Eternal{} when obtained,',
+                    'regardless of selected {C:attention}stake{}.'
                 }
             }
         },
