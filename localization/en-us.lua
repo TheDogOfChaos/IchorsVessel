@@ -1,7 +1,18 @@
 return {
     descriptions = {
+        Back = {
+            b_ichor_tarot = {
+                name = "Deck of the Fates",
+                text = {
+                    'Start with 5 Eternal {C:dark_edition}Unholy Arcana{} {C:attention}jokers{}',
+                    '{C:red}Cannot{} obtain any other {C:attention}jokers{}.',
+                    'Tarot cards and Arcana Booster packs',
+                    'are 20X more likely to appear.'
+                }
+            }
+        },
         Joker = {
-            j_ichors_vessel_fear = {
+            j_ichor_fear = {
                 name = "{C:red,E:2}Fear{}",
                 text = {
                     "At the end of a hand, {C:attention,E:2}Force Trigger{} the Joker to the left and right",
